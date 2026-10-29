@@ -1,1 +1,1 @@
-Projects from DataCamp on supervised learning with scikit-learn
+This repository contains projects from DataCamp on supervised learning with scikit-learn.
